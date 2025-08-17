@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Priyanka B</h1>
-<h3 align="center">🚀 Full Stack Developer (MERN + Flask) with AI Integration | 🤖 AI/ML & Emerging Tech Enthusiast | 🌐 Cloud & Software Development Explorer</h3>
+<h3 align="center">💻 Full Stack Developer | 🤖 AI/ML & Emerging Tech Enthusiast | 🌐 Cloud & Software Development Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka-student&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka-student" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=priyanka-student&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka-student" /> 
+</p>
 
 ---
 
-- 🔭 I’m currently working on **AI-driven Full Stack Projects**  
-- 🌱 I’m currently learning **AI/ML and Cloud Technologies**  
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/Priyanka-Student)  
-- 💬 Ask me about **MERN, Flask, AI Integration, APIs**  
-- 📫 Reach me at **priyankasneha753@gmail.com**  
+- 🔭 Exploring **AI-powered applications** and bringing intelligence into full stack development  
+- 🚀 Building **scalable web apps** that combine performance with real-world impact  
+- 🌱 Continuously upskilling in **AI/ML, cloud platforms, and modern development practices**  
+- 💬 Open to discussions on **full stack engineering, AI integration, and innovative tech trends**  
+- 📫 Let’s connect: **priyankasneha753@gmail.com**  
 
 ---
 
